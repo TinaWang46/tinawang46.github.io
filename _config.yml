@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tina Wang / Biomedical Engineering Student"
+title                    : "Tina Wang / Biomedical Engineering Student @ uWaterloo"
 title_separator          : "-"
 name                     : &name "Tina Wang"
-description              : &description "I am a Biomedical Engineering (co-op) student at the University of Waterloo, I am excited and open to explore the advanced developing skills and new technologies in biomedical field that could impact our everyday lives. Effected by family members, I participated in various volunteer activities in and out of campus and catching up with the newest design by attending workshops. Together, let's make the next innovation that change tomorrow's life."
+description              : &description "I am a Biomedical Engineering (co-op) student at the University of Waterloo."
 url                      : https://tinawang46.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tinawang46.github.io"
